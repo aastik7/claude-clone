@@ -7,7 +7,7 @@ A modern Next.js application that replicates the Claude AI interface and functio
 ## 🚀 Live Demo
 
 Check out the live version of the application:
-**[https://vercel.com/aastiks-projects-7e58f428/claude-clone](https://vercel.com/aastiks-projects-7e58f428/claude-clone)**
+**[https://vercel.com/aastiks-projects-7e58f428/claude-clone](https://claude-clone-mocha.vercel.app/)**
 
 ## ✨ Features
 
