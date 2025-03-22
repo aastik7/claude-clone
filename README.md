@@ -1,6 +1,8 @@
 # Claude Clone
+![chrome_JIdRhFT6Uo-00 00 00 000-00 00 07 327](https://github.com/user-attachments/assets/8e2d205e-4986-4059-9c9c-291b6a3ba3d2)
 
-![Claude Clone](https://claude-clone.vercel.app/og.png)
+
+![Claude Clone]([https://claude-clone.vercel.app/og.png](https://github.com/user-attachments/assets/8e2d205e-4986-4059-9c9c-291b6a3ba3d2)
 
 A modern Next.js application that replicates the Claude AI interface and functionality.
 
